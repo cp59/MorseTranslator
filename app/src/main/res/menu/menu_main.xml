@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_space"
+        android:icon="@drawable/ic_baseline_space_bar_24"
+        android:title="@string/space" />
+
+    <item
+        android:id="@+id/placeholder"
+        android:title="" />
+
+    <item
+        android:id="@+id/action_backspace"
+        android:icon="@drawable/ic_baseline_backspace_24"
+        android:title="@string/backspace" />
+
+</menu>

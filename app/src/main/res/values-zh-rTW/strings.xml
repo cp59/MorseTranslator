@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">摩斯電碼翻譯器</string>
+    <string name="morse_code">摩斯電碼</string>
+    <string name="text">文字</string>
+    <string name="space">空格</string>
+    <string name="backspace">退格鍵</string>
+</resources>

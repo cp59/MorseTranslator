@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MorseTranslator</string>
+    <string name="morse_code">Morse code</string>
+    <string name="text">Text</string>
+    <string name="space">Space</string>
+    <string name="backspace">Backspace</string>
+</resources>
